@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+sqlalchemy==1.4.23
+psycopg2-binary==2.9.1
+fritzconnection==1.12.0
+paramiko==2.8.1
+psutil==5.8.0
+gputil==1.4.0
+six>=1.10.0
